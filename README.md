@@ -1,5 +1,6 @@
 # node-server-wx
-this is use to communicate with wechat server.
+this is use to communicate with wechat server.It integrated chatgpt,you can input something and official accounts will return the result from chatgpt.
+you need a openai key and wechat official account.
 
 ## config
 in config/index.js can config wechat server info.
